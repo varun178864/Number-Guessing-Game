@@ -6,3 +6,5 @@ The Number Guessing Game is a simple interactive game where the player tries to 
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/4b1cedbd-141f-47ae-98de-a31e706befd9)
+
